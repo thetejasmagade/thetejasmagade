@@ -14,8 +14,8 @@ From my web development knowledge, I developed my own blogging website, 2 client
 <a href="https://github.com/thetejasmagade"><img align="left" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /></a>
 <a href="https://programtuts.com/"><img align="left" width="25px" src="https://www.flaticon.com/svg/vstatic/svg/841/841568.svg?token=exp=1620973260~hmac=85646460242535679a57f3d865907bcd" /></a>
 <a href="mailto:magadetejas5@gmail.com"><img align="left" width="25px" src="https://www.flaticon.com/svg/vstatic/svg/725/725643.svg?token=exp=1620977459~hmac=afaaa182e85fcb821ecbcea8adfa564c" /></a>
-<br />
-<hr />
+<br>
+<hr>
 
 ### Languages & Tools:
 <img align="left" width="30px" src="https://www.flaticon.com/svg/vstatic/svg/919/919827.svg?token=exp=1620973918~hmac=745a6ac7951694ec2abce545fbdbc505" />
@@ -30,8 +30,8 @@ From my web development knowledge, I developed my own blogging website, 2 client
 <img align="left" width="30px" src="https://cdn4.iconfinder.com/data/icons/macaron-1/48/atom-512.png" />
 <img align="left" width="30px" src="https://img.icons8.com/color/2x/visual-studio-code-2019.png" />
 <img align="left" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<br />
-<hr />
+<br>
+<hr>
 
 ### Latest Blog Posts :closed_book:
 :link: <a href="https://magadetejas.medium.com/functions-in-python-a-beginners-guide-to-know-about-it-3b4271701f76">Functions in Python: A Beginner’s guide to know about it.</a><br>
