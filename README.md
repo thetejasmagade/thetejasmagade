@@ -1,5 +1,5 @@
 # Hi there, I'm Tejas <img height="35px" width="35px" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966">
-## I'm Web Developer/ Great Programmer / Content Writer / Investor in Stock Market
+## I'm Web Developer/ Great Programmer / Content Writer / Linux Lover / Investor in Stock Market
 ### I love to write Code ❤️
 
 My name is Tejas Magade and I am learning in the Second Year of IT engineering. I love to code and especially I am very passionate about web development. I learned all the basics of web development and now I am learning the Django framework and Android development. I also know the C, Python, and Java programming languages. And I also love to explore new programming languages.
