@@ -64,6 +64,3 @@ For, Such blog Posts & articles visit:<br>
 ### Random Joke
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
-
-<img src="tree-736885__480.webp">
-
