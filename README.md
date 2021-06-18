@@ -19,18 +19,18 @@ From my web development knowledge, I developed my own blogging website, 2 client
 
 ### Languages & Tools:
 <p>
-<img align="left" width="30px" src="https://www.flaticon.com/svg/vstatic/svg/919/919827.svg?token=exp=1620973918~hmac=745a6ac7951694ec2abce545fbdbc505" />
-<img align="left" width="30px" src="https://www.flaticon.com/svg/vstatic/svg/919/919826.svg?token=exp=1620973956~hmac=1f960267cc6a31129013db27594e8758" />
-<img align="left" width="30px" src="https://www.flaticon.com/svg/vstatic/svg/541/541509.svg?token=exp=1620974092~hmac=5ea0b12b014e7e58966e50223d000930" />
-<img align="left" width="30px" src="https://img.icons8.com/color/2x/django.png" />
-<img align="left" width="30px" src="https://www.flaticon.com/svg/vstatic/svg/919/919852.svg?token=exp=1620974155~hmac=f743851d4930a3a8c2e31c8fe8de4fd0" />
-<img align="left" width="30px" src="https://www.flaticon.com/svg/vstatic/svg/919/919854.svg?token=exp=1620974304~hmac=346eb92b9d9151f29030e44bd7a8942f" />
-<img align="left" width="30px" src="https://www.flaticon.com/svg/vstatic/svg/888/888839.svg?token=exp=1620974395~hmac=a300e205beb003e52bb1aedede45b643" />
-<img align="left" width="30px" src="https://www.flaticon.com/svg/vstatic/svg/1199/1199128.svg?token=exp=1620974467~hmac=d3cd22aa0b59d6cd944d4bd3cc74542e" />
-<img align="left" width="30px" src="https://img.icons8.com/color/2x/postgreesql.png" />
-<img align="left" width="30px" src="https://cdn4.iconfinder.com/data/icons/macaron-1/48/atom-512.png" />
-<img align="left" width="30px" src="https://img.icons8.com/color/2x/visual-studio-code-2019.png" />
-<img align="left" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" width="30px" src="icons/html-5.png" />
+<img align="left" width="30px" src="icons/css.png" />
+<img align="left" width="30px" src="icons/javascript.png" />
+<img align="left" width="30px" src="icons/django.png" />
+<img align="left" width="30px" src="icons/c.jpg" />
+<img align="left" width="30px" src="icons/java.png" />
+<img align="left" width="30px" src="icons/python.png" />
+<img align="left" width="30px" src="icons/postgressql.png" />
+<img align="left" width="30px" src="icons/mysql.png" />
+<img align="left" width="30px" src="icons/vscode.png" />
+<img align="left" width="30px" src="icons/atom.png" />
+<img align="left" width="30px" src="icons/git.png" />
 </p>
 <br />
 <br />
