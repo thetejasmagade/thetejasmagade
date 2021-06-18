@@ -26,6 +26,7 @@ From my web development knowledge, I developed my own blogging website, 2 client
 <img align="left" width="30px" src="icons/c.jpg" />
 <img align="left" width="30px" src="icons/java.png" />
 <img align="left" width="30px" src="icons/python.jpg" />
+<img align="left" width="30px" src="icons/android.png" />
 <img align="left" width="30px" src="icons/postgressql.png" />
 <img align="left" width="30px" src="icons/mysql.png" />
 <img align="left" width="30px" src="icons/vscode.png" />
