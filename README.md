@@ -9,11 +9,11 @@ From my web development knowledge, I developed my own blogging website, 2 client
 <hr />
 
 ### Connect with me at:
-<a href="https://www.linkedin.com/in/thetejasmagade/"><img align="left" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
-<a href="https://magadetejas.medium.com/"><img align="left" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" /></a>
-<a href="https://github.com/thetejasmagade"><img align="left" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /></a>
-<a href="https://programtuts.com/"><img align="left" width="25px" src="https://www.flaticon.com/svg/vstatic/svg/841/841568.svg?token=exp=1620973260~hmac=85646460242535679a57f3d865907bcd" /></a>
-<a href="mailto:magadetejas5@gmail.com"><img align="left" width="25px" src="https://www.flaticon.com/svg/vstatic/svg/725/725643.svg?token=exp=1620977459~hmac=afaaa182e85fcb821ecbcea8adfa564c" /></a>
+<a href="https://www.linkedin.com/in/thetejasmagade/"><img align="left" width="25px" src="icons/linkedin.png" /></a>
+<a href="https://magadetejas.medium.com/"><img align="left" width="25px" src="icons/medium.png" /></a>
+<a href="https://github.com/thetejasmagade"><img align="left" width="25px" src="icons/github.png" /></a>
+<a href="https://programtuts.com/"><img align="left" width="25px" src="icons/website.png" /></a>
+<a href="mailto:magadetejas5@gmail.com"><img align="left" width="25px" src="icons/gmail.png" /></a>
 <br>
 <hr>
 
