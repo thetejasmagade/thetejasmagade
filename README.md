@@ -18,6 +18,7 @@ From my web development knowledge, I developed my own blogging website, 2 client
 <hr>
 
 ### Languages & Tools:
+<p>
 <img align="left" width="30px" src="https://www.flaticon.com/svg/vstatic/svg/919/919827.svg?token=exp=1620973918~hmac=745a6ac7951694ec2abce545fbdbc505" />
 <img align="left" width="30px" src="https://www.flaticon.com/svg/vstatic/svg/919/919826.svg?token=exp=1620973956~hmac=1f960267cc6a31129013db27594e8758" />
 <img align="left" width="30px" src="https://www.flaticon.com/svg/vstatic/svg/541/541509.svg?token=exp=1620974092~hmac=5ea0b12b014e7e58966e50223d000930" />
@@ -30,6 +31,7 @@ From my web development knowledge, I developed my own blogging website, 2 client
 <img align="left" width="30px" src="https://cdn4.iconfinder.com/data/icons/macaron-1/48/atom-512.png" />
 <img align="left" width="30px" src="https://img.icons8.com/color/2x/visual-studio-code-2019.png" />
 <img align="left" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+</p>
 <br />
 <br />
 <hr>
