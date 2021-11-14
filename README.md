@@ -2,7 +2,7 @@
 ## I'm Web Developer/ Great Programmer / Content Writer / Linux Lover / Investor in Stock Market
 ### I love to write Code ❤️
 
-My name is Tejas Magade and I am learning in the Second Year of IT engineering. I love to code and especially I am very passionate about web development. I learned all the basics of web development and now I am learning the Django framework and Android development. I also know the C, Python, and Java programming languages. And I also love to explore new programming languages.
+My name is Tejas Magade and I am learning in the Third Year of IT engineering. I love to code and especially I am very passionate about web development. I learned all the basics of web development and now I am learning the Django framework and Android development. I also know the C, Python, and Java programming languages. And I also love to explore new programming languages.
 From my web development knowledge, I developed my own blogging website, 2 clients business websites, and I am also working on some new projects.
 
 :chart: With that, I am really interested in Stock Market. :chart:
