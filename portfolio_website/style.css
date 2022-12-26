@@ -4,8 +4,8 @@ body {
   font-size: calc(10px + 0.33vw);
   -webkit-font-smoothing: antialiased;
   padding: 5vh 10vw;
-  color: #121314;
-  background-color: white;
+  background-color: black;
+  color: rgb(207, 207, 207);
 }
 
 body::-webkit-scrollbar {
@@ -18,9 +18,9 @@ body {
   scrollbar-width: none; /* Firefox */
 }
 
-.dark-mode {
-  background-color: black;
-  color: white;
+.light-mode {
+  color: #121314;
+  background-color: white;
 }
 
 .heading {
@@ -192,3 +192,5 @@ p {
 a {
   color: #42b883;
 }
+
+
